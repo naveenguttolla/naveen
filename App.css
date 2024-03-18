@@ -1,0 +1,13 @@
+#fa{padding: 5px;
+display: inline;}
+#hh{position: relative;
+top: 300px;}
+#main{text-align: center;
+align-items: center;}
+
+@media screen and (max-width:530px){
+
+#im{width: 450px;}
+   #non{width: 450px;}
+#id{width: 300px;}
+}
